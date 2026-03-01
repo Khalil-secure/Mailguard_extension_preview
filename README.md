@@ -34,8 +34,8 @@ MailGuard Extension adds a one-click phishing scanner directly inside your email
 ### Gmail — Safe email
 ![Safe email in Gmail](screenshots/gmail-safe.png)
 
-### Outlook — Suspicious email
-![Suspicious email flagged in Outlook](screenshots/outlook-suspicious.png)
+### Outlook — phishing email
+![phishing email flagged in Outlook](screenshots/outlook-phishing.png)
 
 ### Extension popup — Logged in
 ![Extension popup showing scan counter](screenshots/popup-loggedin.png)
