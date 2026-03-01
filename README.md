@@ -10,7 +10,8 @@
 
 MailGuard Extension adds a one-click phishing scanner directly inside your email client. No copy-pasting, no switching tabs — scan any email the moment you open it.
 
-![MailGuard detecting phishing in Gmail](screenshots/demo.gif)
+
+![MailGuard detecting phishing in Gmail](screenshots/Mailguard_alt_preview.gif)
 
 ---
 
